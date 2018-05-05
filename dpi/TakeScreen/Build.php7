@@ -1,0 +1,6 @@
+<?
+  $MainTarget ='TakeScreen';
+  $Modules    ='../';
+  $Op         ='Build';
+  include '../../../../WBuild/Compile.php7';
+?>
